@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "landing": {
+      "type": "assets",
+      "source": ["src/grindurus-landing"]
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
