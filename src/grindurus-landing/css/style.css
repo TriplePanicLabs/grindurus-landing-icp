@@ -245,6 +245,7 @@ section {
   margin-bottom: 3.125rem
 }
 .hero__button {
+  z-index: 10;
   padding: .625rem 1.875rem
 }
 .hero__background {
